@@ -14,7 +14,7 @@ The goal is for people to fully understand Party Finder descriptions and underst
 
 
 
-<b>General</b>
+<br><b>General</b>
 <table>
     <tr>
         <td>

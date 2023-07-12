@@ -1,12 +1,30 @@
-# FFXIV EN JP Glossary
+<!doctype html>
+<html lang="en" class="h-100">
 
-<!-- 
-    <tr>
-        <td>Japanese</td>
-        <td>English</td>
-        <td>Comment</td>
-    </tr>
--->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FFXIV EN JP Glossary</title>
+</head>
+
+<body class="bg-white text-center d-flex h-100">
+  <div class="container d-flex p-3 mx-auto flex-column">
+    <header class="mb-auto">
+      <h3 class="float-left">FFXIV EN JP Glossary</h3>
+      <nav class="nav justify-content-center float-right">
+        <a class="nav-link active" href="https://github.com/NeriLingonberry">GitHub</a>
+        <div class="nav-link">
+
+          <div class="custom-control custom-switch">
+            <input type="checkbox" class="custom-control-input" id="darkSwitch">
+            <label class="custom-control-label" for="darkSwitch">Dark Mode</label>
+          </div>
+
+        </div>
+      </nav>
+    </header>
+
 This is a list of Japanese phrases you might see in Final Fantasy XIV and their more accurate translation.
 The goal is for people to fully understand Party Finder descriptions and understand the main jist of communication.
 

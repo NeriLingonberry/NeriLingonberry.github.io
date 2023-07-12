@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>FFXIV EN JP Glossary</title>
 </head>
-
 This is a list of Japanese phrases you might see in Final Fantasy XIV and their more accurate translation.
 The goal is for people to fully understand Party Finder descriptions and understand the main jist of communication.
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 <br><b>General</b>
 <table>
     <tr>

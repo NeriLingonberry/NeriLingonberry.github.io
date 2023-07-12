@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FFXIV EN JP Glossary
 
 <!-- 
@@ -581,7 +580,3 @@ TEA
         <td></td>
     </tr>
 </table>
-=======
-# NeriLingonberry.github.io
-test
->>>>>>> b382ce53df6176a88af603aba2202e66dbfbfe69

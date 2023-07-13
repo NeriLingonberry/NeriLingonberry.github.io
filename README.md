@@ -83,12 +83,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
     <tr>
         <td>いてら</td>
         <td>What people say to see someone off. Example: Someone goes to the bathroom, people say this.</td>
-        <td>Very shortened form of いってらっしゃい.</td>
+        <td>Very abbreviated form of いってらっしゃい.</td>
     </tr>
     <tr>
         <td>おか</td>
         <td>Welcome back.</td>
-        <td>Shortened version of おかえりなさい.</td>
+        <td>Abbreviated version of おかえりなさい.</td>
     </tr>
     <tr>
         <td>戻りました</td>
@@ -171,7 +171,7 @@ Bookmark the page, cause the URL is bad and I should feel bad.
     <tr>
         <td>クリア目的</td>
         <td>Aim to clear</td>
-        <td>Can be shortened to クリ目.</td>
+        <td>Can be abbreviated as クリ目.</td>
     </tr>
     <tr>
         <td>未</td>
@@ -318,6 +318,21 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>アドル</td>
         <td>Addle</td>
         <td></td>
+    </tr>
+  　<tr>
+        <td>リプライザル</td>
+        <td>Reprisal</td>
+        <td>Commonly abbreviated as: リプ</td>
+    </tr>
+  　<tr>
+        <td>インタージェクト</td>
+        <td>Interject</td>
+        <td>Tank interrupt</td></td>
+    </tr>
+　  <tr>
+        <td>ヘッドグレイズ</td>
+        <td>Head Graze</td>
+        <td>Physical Ranged interrupt</td>
     </tr>
     <tr>
         <td>内丹</td>

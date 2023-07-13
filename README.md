@@ -91,7 +91,7 @@ The goal is for people to fully understand Party Finder descriptions and underst
     </tr>
     <tr>
         <td>戻りました</td>
-        <td>Back (usually from being AFK)</td>
+        <td>I'm back (usually from being AFK)</td>
         <td></td>
     </tr>
     <tr>

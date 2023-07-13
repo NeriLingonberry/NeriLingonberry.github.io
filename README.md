@@ -14,6 +14,7 @@ The goal is for people to fully understand Party Finder descriptions and underst
 
 <br>
 <br>
+Bookmark the page, cause the URL is bad and I should feel bad.
 <br>
 <br>
 <br><b>General</b>

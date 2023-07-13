@@ -134,7 +134,7 @@ The goal is for people to fully understand Party Finder descriptions and underst
     </tr>
     <tr>
         <td>募集</td>
-        <td>Recruit(FFA) loot system</td>
+        <td>Recruit</td>
         <td>募集中 for "Recruiting"</td>
     </tr>
     <tr>

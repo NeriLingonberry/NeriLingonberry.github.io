@@ -8,6 +8,9 @@
 </head>
 This is a list of Japanese phrases you might see in Final Fantasy XIV and their more accurate translation.
 The goal is for people to fully understand Party Finder descriptions and understand the main jist of communication.
+<br>
+<br> IF YOU WANT A TERM ADDED, DM ME ON DISCORD (neriberry) OR CREATE AN ISSUE ON GITHUB. PROVIDE AN ENGLISH AND/OR JAPANESE TERM.
+<br>It doesn't matter if you don't have the translation, I'll provide it.
 
 <br>
 <br>

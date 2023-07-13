@@ -133,6 +133,11 @@ The goal is for people to fully understand Party Finder descriptions and underst
         </td>
     </tr>
     <tr>
+        <td>募集</td>
+        <td>Recruit(FFA) loot system</td>
+        <td>募集中 for "Recruiting"</td>
+    </tr>
+    <tr>
         <td>フリロ</td>
         <td>Free roll (FFA) loot system</td>
         <td></td>

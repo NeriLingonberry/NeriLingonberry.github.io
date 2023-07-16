@@ -181,6 +181,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>募集中 for "Recruiting"</td>
     </tr>
     <tr>
+        <td>断章 or 欠片</td>
+        <td>Danshou or Kakera</td>
+        <td>Book run</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>フリロ</td>
         <td>Furiro</td>
         <td>Free roll (FFA) loot system</td>

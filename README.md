@@ -542,6 +542,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>Ground AoE</td>
         <td>Used for any bad stuff on the ground.</td>
     </tr>
+    <tr>
+        <td>希望</td>
+        <td>Kibou</td>
+        <td>Wish</td>
+        <td>Commonly used to say "I wish to be MT." MT希望</td>
+    </tr>
 </table>
 <b>Ultimate Specific</b>
 <br>UCOB

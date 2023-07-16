@@ -153,6 +153,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>Roger that</td>
         <td>Affirmative response</td>
     </tr>
+    <tr>
+        <td>間違いました</td>
+        <td>Machigaimashita</td>
+        <td>I mistook (something)</td>
+        <td></td>
+    </tr>
     
     
   

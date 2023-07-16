@@ -118,10 +118,22 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td></td>
     </tr>
     <tr>
+        <td>失礼します</td>
+        <td>Shitsurei shimasu</td>
+        <td>Excuse me</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>ごめんなさい</td>
         <td>Gomennasai</td>
         <td>I'm sorry</td>
         <td></td>
+    </tr>
+    <tr>
+        <td>どま</td>
+        <td>Doma</td>
+        <td>Don't worry about it.</td>
+        <td>Used after someone makes a mistake. It's an abbreviated form of "Don't mind".</td>
     </tr>
     <tr>
         <td>お願いします</td>
@@ -134,6 +146,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>San</td>
         <td>Mr./Mrs.</td>
         <td>Common honorific.</td>
+    </tr>
+    <tr>
+        <td>了解</td>
+        <td>Ryoukai</td>
+        <td>Roger that</td>
+        <td>Affirmative response</td>
     </tr>
     
     
@@ -338,6 +356,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         </td>
     </tr>
     <tr>
+        <td>回目</td>
+        <td>Kaime</td>
+        <td>Counter for events</td>
+        <td>Example: １回目 is the first of something, for example a tank buster or feint. １回目無敵 is a common combination, meaning you'll use invulnerability on the 1st tank buster.</td>
+    </tr>
+    <tr>
         <td>タンク強攻撃</td>
         <td>Tanku kyoukougeki</td>
         <td>Tank Buster</td>
@@ -498,6 +522,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>Yuudou</td>
         <td>Bait</td>
         <td></td>
+    </tr>
+    <tr>
+        <td>沼</td>
+        <td>Numa</td>
+        <td>Ground AoE</td>
+        <td>Used for any bad stuff on the ground.</td>
     </tr>
 </table>
 <b>Ultimate Specific</b>

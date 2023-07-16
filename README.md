@@ -342,6 +342,13 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>Wondrous Tails</td>
         <td></td>
     </tr>
+    <tr>
+        <td>サブジョブ</td>
+        <td>Sabujobu</td>
+        <td>Alt job</td>
+        <td></td>
+    </tr>
+    
   
 </table>
 <b>In Duty</b>

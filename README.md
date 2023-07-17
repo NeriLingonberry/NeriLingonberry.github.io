@@ -559,6 +559,11 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>Kibou</td>
         <td>Wish</td>
         <td>Commonly used to say "I wish to be MT." MT希望</td>
+    <tr>
+        <td>ギミック</td>
+        <td>Gimikku</td>
+        <td>Mechanic</td>
+        <td>As in "Mechanic of a fight"</td>
     </tr>
 </table>
 <b>Ultimate Specific</b>

@@ -223,6 +223,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td></td>
     </tr>
     <tr>
+        <td>安定</td>
+        <td>Antei</td>
+        <td>Clean up (a mechanic)</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>練習</td>
         <td>Renshuu</td>
         <td>Practice</td>

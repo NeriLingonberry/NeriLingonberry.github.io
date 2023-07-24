@@ -360,6 +360,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>Alt job</td>
         <td></td>
     </tr>
+    <tr>
+        <td>整列</td>
+        <td>Seiretsu</td>
+        <td>Lineup</td>
+        <td>Usually referring to a conga-line solution to a mechanic. Example: Tenstrike (UCOB), Pangenesis (P12S).</td>
+    </tr>
     
   
 </table>

@@ -366,6 +366,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>Lineup</td>
         <td>Usually referring to a conga-line solution to a mechanic. Example: Tenstrike (UCOB), Pangenesis (P12S).</td>
     </tr>
+    <tr>
+        <td>攻略</td>
+        <td>Kouryaku</td>
+        <td>Strategy</td>
+        <td></td>
+    </tr>
     
   
 </table>

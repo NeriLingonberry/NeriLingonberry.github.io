@@ -159,6 +159,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>I mistook (something)</td>
         <td></td>
     </tr>
+    <tr>
+        <td>鯖</td>
+        <td>Saba</td>
+        <td>Server</td>
+        <td>This only means server if it's written in a game.</td>
+    </tr>
     
     
   

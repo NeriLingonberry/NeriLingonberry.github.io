@@ -378,7 +378,18 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>Strategy</td>
         <td></td>
     </tr>
-    
+    <tr>
+        <td>傭兵</td>
+        <td>Youhei</td>
+        <td>Mercenary</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>報酬</td>
+        <td>Houshuu</td>
+        <td>Reward</td>
+        <td></td>
+    </tr>
   
 </table>
 <b>In Duty</b>

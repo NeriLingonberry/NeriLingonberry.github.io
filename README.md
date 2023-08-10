@@ -390,6 +390,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>Reward</td>
         <td></td>
     </tr>
+    <tr>
+        <td>優先</td>
+        <td>Yuusen</td>
+        <td>Priority</td>
+        <td></td>
+    </tr>
   
 </table>
 <b>In Duty</b>
@@ -593,6 +599,18 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>Gimikku</td>
         <td>Mechanic</td>
         <td>As in "Mechanic of a fight"</td>
+    </tr>
+    <tr>
+        <td>進行</td>
+        <td>Shinkou</td>
+        <td>Pull/Countdown</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>誤爆</td>
+        <td>Gobaku</td>
+        <td>To die to friendly fire</td>
+        <td>Rare to see, good to know.</td>
     </tr>
 </table>
 <b>Ultimate Specific</b>

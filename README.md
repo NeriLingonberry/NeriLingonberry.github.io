@@ -609,8 +609,8 @@ Bookmark the page, cause the URL is bad and I should feel bad.
     <tr>
         <td>誤爆</td>
         <td>Gobaku</td>
-        <td>To die to friendly fire</td>
-        <td>Rare to see, good to know.</td>
+        <td>"To die to friendly fire" OR "Wrote in the wrong chat"</td>
+        <td>Rare to see, good to know. Equivalent of "wc" in the latter example.</td>
     </tr>
 </table>
 <b>Ultimate Specific</b>

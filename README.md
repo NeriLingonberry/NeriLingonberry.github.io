@@ -196,7 +196,7 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>断章 or 欠片</td>
         <td>Danshou or Kakera</td>
         <td>Book run</td>
-        <td></td>
+        <td>欠片 is very rarely used, but just in case, I listed it.</td>
     </tr>
     <tr>
         <td>フリロ</td>

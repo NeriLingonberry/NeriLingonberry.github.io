@@ -577,7 +577,7 @@ Game8 Strats can be found at
     </tr>
     <tr>
         <td>飛びのき</td>
-        <td>Tobynoki</td>
+        <td>Tobinoki</td>
         <td>Backflip (BRD/DRG)</td>
         <td></td>
     </tr>

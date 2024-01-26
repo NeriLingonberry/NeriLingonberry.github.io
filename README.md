@@ -17,7 +17,7 @@ The goal is for people to fully understand Party Finder descriptions and underst
 Bookmark the page, cause the URL is bad and I should feel bad.
 <br>
 <br>
-Game8 Strats can be found at [Game8]([https://pages.github.com/](https://game8.jp/ff14))
+Game8 Strats can be found at [Game8](https://game8.jp/ff14)
 <br>
 <br>
 <br><b>General</b>

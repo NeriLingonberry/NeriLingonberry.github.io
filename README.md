@@ -396,6 +396,12 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>Priority</td>
         <td></td>
     </tr>
+    <tr>
+        <td>制限解除</td>
+        <td>Seigenkaijo</td>
+        <td>Unsynced</td>
+        <td></td>
+    </tr>
   
 </table>
 <b>In Duty</b>

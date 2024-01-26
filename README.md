@@ -157,7 +157,7 @@ Bookmark the page, cause the URL is bad and I should feel bad.
         <td>間違いました</td>
         <td>Machigaimashita</td>
         <td>I mistook (something)</td>
-        <td></td>
+        <td>Example usage: 位置間違いました (I mistook my position/I was in the wrong place)</td>
     </tr>
     <tr>
         <td>鯖</td>

@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>FFXIV EN JP Glossary</title>
 </head>
+English
+<br>
 This is a list of Japanese phrases you might see in Final Fantasy XIV and their more accurate translation.
 The goal is for people to fully understand Party Finder descriptions and understand the main jist of communication. Romaji is provided in order to help people write it using IME. It does not always represent reading (example: Konnichiha).
 <br>
@@ -17,8 +19,24 @@ The goal is for people to fully understand Party Finder descriptions and underst
 Bookmark the page, cause the URL is bad and I should feel bad.
 <br>
 <br>
-Game8 Strats can be found at
+Game8 (JP) Strats can be found at
 <a href="https://game8.jp/ff14"> Game8 </a>
+<br>
+日本語
+<br>
+下記URLは、英語圏のプレイヤーたちとパーティ募集でレイドをする際に役立つ英語のフレーズのリストです。
+パーティー募集で一般的な処理法を的確に理解するとともに、基本的な連携が取れるようになることを目標として作りました。
+元々は日本語の資料を英語に翻訳することで資料を作成していたため、現時点で解説は英語版しかありませんが正確な処理法等の翻訳をご覧いただけます。
+<br>
+<br> 用語/フレーズを追加したい場合は、Discordで私にメッセージを送ってください（neriberry）。
+<br> 追加したい用語、またはフレーズの翻訳が分からなくても構いません。
+
+<br>
+<br>
+URLが非常に長いため、サイトをブックマークしておくことをお勧めします。
+<br>
+<br>
+Tuufless GitHub (EN/英圏攻略) https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/
 <br>
 <br>
 <br><b>General</b>

@@ -43,7 +43,7 @@ Game8 (JP) Strats can be found at
 URLが非常に長いため、サイトをブックマークしておくことをお勧めします。
 <br>
 <br>
-Tuufless GitHub (EN/英圏 攻略) https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/
+<a href="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/"> Tuufless GitHub (EN/英圏 攻略) </a>
 <br>
 このサイトの管理人であるTuuflessは、サイトの運営を通じて、日本語圏のプレイヤーと英語圏のプレイヤーとの間にある隔たりをなくし、国際的な交流ができるコミュニティを形成するために尽力しています。
 <br>

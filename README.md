@@ -672,7 +672,7 @@ Game8 Strats can be found at
     </tr>
     <tr>
         <td>進軍</td>
-        <td>Jingun</td>
+        <td>Shingun</td>
         <td>Quickmarch Trio</td>
         <td></td>
     </tr>
@@ -702,7 +702,7 @@ Game8 Strats can be found at
     </tr>
     <tr>
         <td>群竜</td>
-        <td>Gunryou</td>
+        <td>Gunryuu</td>
         <td>Grand Octet</td>
         <td></td>
     </tr>
@@ -819,8 +819,14 @@ TEA
         <td>This applies to most Enumeration mechanics.</td>
     </tr>
     <tr>
-        <td>時間停止 or 時空先行</td>
-        <td>Jikanteishi or Jikuusenkou</td>
+        <td>時間停止</td>
+        <td>Jikanteishi</td>
+        <td>Temporal Stasis</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>時空先行</td>
+        <td>Jikuusenkou</td>
         <td>Inception</td>
         <td></td>
     </tr>

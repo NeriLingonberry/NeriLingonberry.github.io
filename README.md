@@ -22,6 +22,8 @@ Bookmark the page, cause the URL is bad and I should feel bad.
 Game8 (JP) Strats can be found at
 <a href="https://game8.jp/ff14"> Game8 </a>
 <br>
+<br>
+
 日本語
 <br>
 下記URLは、英語圏のプレイヤーたちとパーティ募集でレイドをする際に役立つ英語のフレーズのリストです。

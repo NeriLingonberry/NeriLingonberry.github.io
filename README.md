@@ -9,6 +9,7 @@
 <br>
 English
 <br>
+<br>
 This is a list of Japanese phrases you might see in Final Fantasy XIV and their more accurate translation.
 The goal is for people to fully understand Party Finder descriptions and understand the main jist of communication. Romaji is provided in order to help people write it using IME. It does not always represent reading (example: Konnichiha).
 <br>
@@ -42,7 +43,7 @@ Game8 (JP) Strats can be found at
 URLが非常に長いため、サイトをブックマークしておくことをお勧めします。
 <br>
 <br>
-Tuufless GitHub (EN/英圏攻略) https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/
+Tuufless GitHub (EN/英圏 攻略) https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/
 <br>
 このサイトの管理人であるTuuflessは、サイトの運営を通じて、日本語圏のプレイヤーと英語圏のプレイヤーとの間にある隔たりをなくし、国際的な交流ができるコミュニティを形成するために尽力しています。
 <br>

@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>FFXIV EN JP Glossary</title>
 </head>
+<br>
 English
 <br>
 This is a list of Japanese phrases you might see in Final Fantasy XIV and their more accurate translation.
@@ -28,7 +29,8 @@ Game8 (JP) Strats can be found at
 <br>
 日本語
 <br>
-下記URLは、英語圏のプレイヤーたちとパーティ募集でレイドをする際に役立つ英語のフレーズのリストです。
+<br>
+これは、英語圏のプレイヤーたちとパーティ募集でレイドをする際に役立つ英語のフレーズのリストです。
 パーティー募集で一般的な処理法を的確に理解するとともに、基本的な連携が取れるようになることを目標として作りました。
 元々は日本語の資料を英語に翻訳することで資料を作成していたため、現時点で解説は英語版しかありませんが正確な処理法等の翻訳をご覧いただけます。
 <br>

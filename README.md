@@ -38,6 +38,7 @@ URLが非常に長いため、サイトをブックマークしておくこと�
 <br>
 Tuufless GitHub (EN/英圏攻略) https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/
 <br>
+このサイトの管理人であるTuuflessは、サイトの運営を通じて、日本語圏のプレイヤーと英語圏のプレイヤーとの間にある隔たりをなくし、国際的な交流ができるコミュニティを形成するために尽力しています。
 <br>
 <br><b>General</b>
 <table>

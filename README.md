@@ -650,7 +650,7 @@ URLが非常に長いため、サイトをブックマークしておくこと�
     </tr>
 </table>
 <b>Ultimate Specific</b>
-<br>UCOB
+  <br>UCOB
 <table>
     <tr>
         <td>

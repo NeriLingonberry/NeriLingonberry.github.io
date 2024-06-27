@@ -829,7 +829,7 @@ TEA
         <td>サイコロ</td>
         <td>Saikoro</td>
         <td>Limit Cut</td>
-        <td>This applies to all Limit Cut mechanics.</td>
+        <td>This applies to all Limit Cut mechanics. Saikoro means dice in Japanese, so it's in reference to the dice-like way the numbers are presented.</td>
     </tr>
     <tr>
         <td>二体フェーズ</td>

@@ -435,7 +435,6 @@ URLが非常に長いため、サイトをブックマークしておくこと�
   
 </table>
 <b>In Duty</b>
-<br>When the party starts talking about stuff in the chat.
 <table>
     <tr>
         <td>

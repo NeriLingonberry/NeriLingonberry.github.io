@@ -13,7 +13,7 @@ English
 This is a list of Japanese phrases you might see in Final Fantasy XIV and their more accurate translation.
 The goal is for people to fully understand Party Finder descriptions and understand the main jist of communication. Romaji is provided in order to help people write it using IME. It does not always represent reading (example: Konnichiha).
 <br>
-<br> IF YOU WANT A TERM ADDED, DM ME ON DISCORD (neriberry) OR CREATE AN ISSUE ON GITHUB. PROVIDE AN ENGLISH AND/OR JAPANESE TERM.
+<br> IF YOU WANT A TERM ADDED, DM ME ON DISCORD (niwafairy) OR CREATE AN ISSUE ON GITHUB. PROVIDE AN ENGLISH AND/OR JAPANESE TERM.
 <br>It doesn't matter if you don't have the translation, I'll provide it.
 
 <br>
@@ -35,7 +35,7 @@ Game8 (JP) Strats can be found at
 パーティー募集で一般的な処理法を的確に理解するとともに、基本的な連携が取れるようになることを目標として作りました。
 元々は日本語の資料を英語に翻訳することで資料を作成していたため、現時点で解説は英語版しかありませんが正確な処理法等の翻訳をご覧いただけます。
 <br>
-<br> 用語/フレーズを追加したい場合は、Discordで私にメッセージを送ってください（neriberry）。
+<br> 用語/フレーズを追加したい場合は、Discordで私にメッセージを送ってください（niwafairy）。
 <br> 追加したい用語、またはフレーズの翻訳が分からなくても構いません。
 
 <br>

@@ -195,6 +195,12 @@ URLが非常に長いため、サイトをブックマークしておくこと�
         <td>Server</td>
         <td>This only means server if it's written in a game. Otherwise, it's a type of fish. Mackerel, to be exact.</td>
     </tr>
+    <tr>
+        <td>メンテ</td>
+        <td>Mente</td>
+        <td>Maintenance</td>
+        <td>Ironically, added this during 7.0 maintenance</td>
+    </tr>
     
     
   
